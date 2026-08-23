@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Images/morinus.png" alt="Captura centrada" width="300">
+</p>
+
 # morinus-astrology
 An easy to use highly accurate astrology program
 
