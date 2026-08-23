@@ -11,3 +11,14 @@ I have mainly addressed the incompatibilities that arose during the transition f
 
 # AppImage version of Morinus v8.2
 - **Morinus-v8.2-x86_64.AppImage** **[Download](https://github.com/Uthopik/morinus-astrology/releases/download/v8.2/Morinus-v8.2-x86_64.AppImage)**
+- Right-click the **AppImage** file and grant permission via the **‘Permissions’** menu. Alternatively, in the terminal, grant permission using:
+
+```bash
+chmod +x ./Morinus-v8.2-x86_64.AppImage
+```
+
+- On **Arch-based** Linux distributions **(Cachy, Manjaro, Endeavour,...)** you can install it via **AUR**:
+
+```bash
+yay -S morinus-astrology-git
+```
