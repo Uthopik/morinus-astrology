@@ -22,3 +22,7 @@ chmod +x ./Morinus-v8.2-x86_64.AppImage
 ```bash
 yay -S morinus-astrology-git
 ```
+
+# Other interesting astrology programs
+
+- Astronex v2.1 python 3 version. [Here](https://github.com/Uthopik/astronex-python-3)
