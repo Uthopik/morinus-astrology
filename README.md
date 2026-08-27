@@ -20,6 +20,7 @@ chmod +x ./Morinus-v8.2-x86_64.AppImage
 - On **Arch-based** Linux distributions **(Cachy, Manjaro, Endeavour,...)** you can install it via **AUR**:
 
 ```bash
+sudo pacman -S --needed base-devel python-setuptools yay
 yay -S morinus-astrology-git
 ```
 
