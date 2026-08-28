@@ -28,3 +28,7 @@ yay -S morinus-astrology-git
 
 - **Astronex v2.1 python 3 version.** **[Here](https://github.com/Uthopik/astronex-python-3)**
 - Morinus 9.6.3 (https://sourceforge.net/projects/morinus-updated)
+
+<p align="center">
+  <img src="Images/morinus2.png" alt="Captura centrada" width="800">
+</p>
