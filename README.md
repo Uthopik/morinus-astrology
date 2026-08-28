@@ -20,10 +20,11 @@ chmod +x ./Morinus-v8.2-x86_64.AppImage
 - On **Arch-based** Linux distributions **(Cachy, Manjaro, Endeavour,...)** you can install it via **AUR**:
 
 ```bash
-sudo pacman -S --needed base-devel python-setuptools yay
+sudo pacman -S --needed base-devel yay
 yay -S morinus-astrology-git
 ```
 
 # Other interesting astrology programs
 
 - Astronex v2.1 python 3 version. [Here](https://github.com/Uthopik/astronex-python-3)
+- Morinus 9.6.3 (https://sourceforge.net/projects/morinus-updated)
