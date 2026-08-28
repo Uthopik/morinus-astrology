@@ -3,11 +3,11 @@
 </p>
 
 # morinus-astrology
-An easy to use highly accurate astrology program
+An easy to use highly accurate **astrology** program
 
-An improved version of Morinus 8.1, adapted for Python 3.
+An improved version of Morinus 8.1, adapted for **Python 3**.
 
-I have mainly addressed the incompatibilities that arose during the transition from Python 2 to Python 3 in Morinus.
+I have mainly addressed the incompatibilities that arose during the transition from **Python 2** to **Python 3** in **Morinus.**
 
 # AppImage version of Morinus v8.2
 - **Morinus-v8.2-x86_64.AppImage** **[Download](https://github.com/Uthopik/morinus-astrology/releases/download/v8.2/Morinus-v8.2-x86_64.AppImage)**
@@ -26,5 +26,5 @@ yay -S morinus-astrology-git
 
 # Other interesting astrology programs
 
-- Astronex v2.1 python 3 version. [Here](https://github.com/Uthopik/astronex-python-3)
+- **Astronex v2.1 python 3 version.** **[Here](https://github.com/Uthopik/astronex-python-3)**
 - Morinus 9.6.3 (https://sourceforge.net/projects/morinus-updated)
