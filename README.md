@@ -26,7 +26,7 @@ yay -S morinus-astrology-git
 
 # Other interesting astrology programs
 
-- **Astronex v2.1 python 3 version.** **[Here](https://github.com/Uthopik/astronex-python-3)**
+- **Astronex v2.1 python 3 version.** **[Here](https://uthopik.github.io/astronex)**
 - Morinus 9.6.3 (https://sourceforge.net/projects/morinus-updated)
 
 <p align="center">
