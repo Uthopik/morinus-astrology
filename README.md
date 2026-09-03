@@ -27,7 +27,8 @@ yay -S morinus-astrology-git
 # Other interesting astrology programs
 
 - **Astronex v2.1 python 3 version.** **[Here](https://uthopik.github.io/astronex)**
-- Morinus 9.6.3 (https://sourceforge.net/projects/morinus-updated)
+- **Openastro 1.2** **[Here](https://github.com/Uthopik/openastro-astrology)**
+- **Maitreya 8.2** **[Here](https://github.com/Uthopik/maitreya-astrology)**
 
 <p align="center">
   <img src="Images/morinus2.png" alt="Captura centrada" width="800">
