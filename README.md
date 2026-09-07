@@ -29,7 +29,7 @@ yay -S morinus-astrology-git
 - **Astronex v2.1 python 3 version.** **[Here](https://uthopik.github.io/astronex)**
 - **Openastro 1.2** **[Here](https://github.com/Uthopik/openastro-astrology)**
 - **Maitreya 8.2** **[Here](https://github.com/Uthopik/maitreya-astrology)**
-- **Oroboros v20260905** **[Here](https://github.com/Uthopik/oroboros-astrology)**
+- **Oroboros v20260906** **[Here](https://github.com/Uthopik/oroboros-astrology)**
 
 <p align="center">
   <img src="Images/morinus2.png" alt="Captura centrada" width="800">
