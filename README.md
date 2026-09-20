@@ -23,7 +23,13 @@ chmod +x ./Morinus-v8.2-x86_64.AppImage
 sudo pacman -S --needed base-devel yay
 yay -S morinus-astrology-git
 ```
+# AppImage version of [IngenieriaAstrologica](https://github.com/IngenieriaAstrologica/Morinus) edition for Python 3
+- **Morinus-v8.2-x86_64.AppImage** **[Download](https://github.com/Uthopik/morinus-astrology/releases/download/v8.2/Morinus-v8.2-x86_64.AppImage)**
+- Right-click the **AppImage** file and grant permission via the **‘Permissions’** menu. Alternatively, in the terminal, grant permission using:
 
+```bash
+chmod +x ./Morinus-v8.2-x86_64.AppImage
+```
 # Other interesting astrology programs
 
 - **Astronex v2.1 python 3 version.** **[Here](https://uthopik.github.io/astronex)**
