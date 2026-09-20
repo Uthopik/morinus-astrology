@@ -32,7 +32,7 @@ class GraphChart:
 		self.bdc = wx.BufferedDC(None, self.buffer)
 		self.chartsize = min(self.w, self.h)
 		self.maxradius = self.chartsize/2
-		self.center = wx.Point(self.w/2, self.h/2)
+		self.center = wx.Point(self.w//2, self.h//2)
 
 		self.arrowlen = 0.04
 		self.deg01510len = 0.01
